@@ -1,0 +1,8 @@
+- SkyWars []
+- BedWars []
+- TheBridge []
+- BuidlBattle []
+- Capture The Flag []
+- Survival Games []
+- UHC []
+- FFA []
